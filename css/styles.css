@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 0, 191);
+    color: azure;
+
+}
+h1 {
+    color: green;
+  }
+  h2 {
+    letter-spacing: 5px;
+  }
+  p {
+    text-decoration-line: overline underline;
+  }
